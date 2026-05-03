@@ -25,3 +25,5 @@ Sunucuyu başlatın; config.yml, lang_tr.yml ve lang_en.yml dosyaları üzerinde
 ** **
 # 📜 Lisans ve Kullanım Şartları
 Bu yazılım kapalı kaynak kodlu (Proprietary) bir projedir. Kodların tersine mühendislik ile açılması, kopyalanması veya izinsiz olarak yeniden dağıtılması kesinlikle yasaktır. Tüm hakları xCatyy'e aittir.
+** **
+<img width="1774" height="884" alt="cGrave Kapak" src="https://github.com/user-attachments/assets/87b68e96-cab6-4b19-ae6d-edd7d66bb88d" />
